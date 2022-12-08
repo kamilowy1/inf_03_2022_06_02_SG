@@ -1,0 +1,82 @@
+body
+{
+    font-family: Cambria;
+    text-align: center;
+    margin:0;
+}
+
+#baner
+{
+background-color: rgb( 120, 0, 46);
+color: white;
+padding: 5px;
+font-size: 150%;
+}
+
+#stopka
+{
+    background-color: rgb( 120, 0, 46);
+    color:white;
+    padding: 5px;
+    font-size:150%;
+}
+
+#menu
+{
+    background-color: rgb(173,20,87);
+    text-align: left;
+}
+
+#lewy 
+{
+    background-color: snow;
+    color: OliveDrab;
+    text-align: left;
+    width: 60%;
+    height: 322px;
+    float:left;
+
+} 
+
+.auto 
+{
+margin: 40px;
+padding: 10px;
+}
+
+#prawy
+{
+    background-color: rgb(173,20,87);
+    width: 40%;
+    height: 322px;
+    float:left;
+}
+
+.auto:hover
+{
+    border: 1px dotted yellowgreen;
+}
+
+.odnosnik
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: yellowgreen;
+}
+
+table
+{
+    border: 1px solid olivedrab;
+}
+
+td
+{
+    border: 1px solid olivedrab;
+}
+
+table
+{
+    width: 90%;
+}
